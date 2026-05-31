@@ -1,0 +1,17 @@
+{
+    "name": "CEBIG SARL - Génie Civil",
+    "short_name": "CEBIG",
+    "description": "Expert en construction, rénovation et génie civil au Togo",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2c3e50",
+    "icons": [
+        {
+            "src": "images/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}

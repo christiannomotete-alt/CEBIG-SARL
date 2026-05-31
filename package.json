@@ -1,0 +1,15 @@
+{
+  "name": "cebig-images-helper",
+  "version": "1.0.0",
+  "description": "Télécharge et optimise des images Unsplash pour le site CEBIG SARL",
+  "main": "tools/download_and_optimize_images.js",
+  "scripts": {
+    "optimize-images": "node tools/download_and_optimize_images.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "sharp": "^0.32.1"
+  }
+}
