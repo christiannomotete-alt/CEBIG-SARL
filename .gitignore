@@ -3,5 +3,4 @@ dist/
 build/
 .env
 *.zip
-*.mp4
 *.log
